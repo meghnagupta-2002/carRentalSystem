@@ -1,4 +1,4 @@
-*Car Rental System*
+#Car Rental System#
 
 For making database for Car Rental System we have to first create database using CREATE command.
 Query:- create database carRentalSystem; 
