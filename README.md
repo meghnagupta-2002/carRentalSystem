@@ -1,14 +1,17 @@
 #Car Rental System#
 
 For making database for Car Rental System we have to first create database using CREATE command.
+
 Query:- create database carRentalSystem; 
  
 
 Next, we will connect to the database
+
 Query:- use carRentalSystem;
  
 
 Now, it’s time to create tables in the database
+
 1) Vehicle Table
    
 Query:- 
@@ -48,6 +51,7 @@ create table payment (paymentID int primary key, leaseID int, paymentDate date,
  
 
 After creating tables, we will now insert given data 
+
 1) Vehicle Table
    
 Query:-
